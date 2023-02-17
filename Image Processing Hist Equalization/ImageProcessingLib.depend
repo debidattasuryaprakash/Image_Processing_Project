@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1676204485 source:e:\programming\imageprocessing\imageprocessingbright\src\imageprocessing.cpp
+	"ImageProcessing.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1676204689 e:\programming\imageprocessing\imageprocessingbright\include\imageprocessing.h
+
+1676204799 source:e:\programming\imageprocessing\imageprocessingbright\main.cpp
+	<iostream>
+	"ImageProcessing.h"
+
+1676353287 source:e:\programming\imageprocessing\imageprocessinghistogram\main.cpp
+	<iostream>
+	"ImageProcessing.h"
+
+1676353272 e:\programming\imageprocessing\imageprocessinghistogram\include\imageprocessing.h
+
+1676353315 source:e:\programming\imageprocessing\imageprocessinghistogram\src\imageprocessing.cpp
+	"ImageProcessing.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1676458147 source:e:\programming\imageprocessing\imageprocessinghistequalization\main.cpp
+	<iostream>
+	"ImageProcessing.h"
+
+1676458337 e:\programming\imageprocessing\imageprocessinghistequalization\include\imageprocessing.h
+
+1676458324 source:e:\programming\imageprocessing\imageprocessinghistequalization\src\imageprocessing.cpp
+	"ImageProcessing.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

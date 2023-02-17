@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1676204485 source:e:\programming\imageprocessing\imageprocessingbright\src\imageprocessing.cpp
+	"ImageProcessing.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1676204689 e:\programming\imageprocessing\imageprocessingbright\include\imageprocessing.h
+
+1676204799 source:e:\programming\imageprocessing\imageprocessingbright\main.cpp
+	<iostream>
+	"ImageProcessing.h"
+
