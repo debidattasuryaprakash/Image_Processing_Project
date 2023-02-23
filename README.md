@@ -6,7 +6,7 @@ Here are some basic steps for image processing using C++:
 
 - **Importing an image:** The first step is to import an image into your C++ program. This can be done using a library like OpenCV or SDL_image.
 
-- **Converting the image:**Once the image is imported, it may be necessary to convert it to a specific format, such as grayscale or binary. This can be achieved using functions like cvtColor() in OpenCV.
+- **Converting the image:** Once the image is imported, it may be necessary to convert it to a specific format, such as grayscale or binary. This can be achieved using functions like cvtColor() in OpenCV.
 
 - **Pre-processing:** Pre-processing techniques can be applied to the image to remove noise, smooth edges, and enhance contrast. This can be done using functions like GaussianBlur() and equalizeHist() in OpenCV.
 
@@ -35,3 +35,5 @@ Digital images are widely used in fields such as photography, graphic design, vi
 Overall, digital images have revolutionized the way we capture, store, and manipulate visual information, making it easier to share and work with images across various platforms and applications.
 
 ## Image Presentation
+![image description](https://user-images.githubusercontent.com/74270500/220961292-3fc1eea0-8671-482f-bcc1-6e67543e4b69.png)
+
